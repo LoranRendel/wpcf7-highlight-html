@@ -1,0 +1,16 @@
+{
+    "name": "loranrendel/wpcf7-highlight-html",
+    "description": "Highlight HTML in Contact Form 7 edit page",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Loran A. Rendel",
+            "email": "loran@xpor.org"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    }
+}
